@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/preritgarg23/gitflow-trial/compare/1.0.0...1.1.0) (2024-09-13)
+
+
+### Features
+
+* add script file z ([#4](https://github.com/preritgarg23/gitflow-trial/issues/4)) ([bd79448](https://github.com/preritgarg23/gitflow-trial/commit/bd79448e14df0bda29f7bcf30640e24f56313e79))
+
 ## [1.0.0](https://github.com/preritgarg23/demo-gitflow/compare/v0.1.0...1.0.0) (2024-09-04)
 
 
