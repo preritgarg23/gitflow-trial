@@ -1,0 +1,19 @@
+name: Check PR Title
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - edited
+      - synchronize
+
+jobs:
+  check-pr-title:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Slashgear/action-check-pr-title@v4.3.0
+        with:
+          regexp: "(docs|fix|feat|perf|build|refactor|test|chore)(\\(.+\\))?: .+"
+          helpMessage: "Example: 'feat: Title of the new feature'"
