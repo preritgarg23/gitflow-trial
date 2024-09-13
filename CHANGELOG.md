@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/preritgarg23/gitflow-trial/compare/1.1.0...1.2.0) (2024-09-13)
+
+
+### Features
+
+* add fun in file z ([4fb2412](https://github.com/preritgarg23/gitflow-trial/commit/4fb2412ed5abb21e25a3c119e75bfa4fca689fe4))
+
 ## [1.1.0](https://github.com/preritgarg23/gitflow-trial/compare/1.0.0...1.1.0) (2024-09-13)
 
 
