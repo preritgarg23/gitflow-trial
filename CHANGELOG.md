@@ -5,8 +5,6 @@
 
 ### ⚠ BREAKING CHANGES
 
-* add new dag file y
-
 ### Features
 
 * add a new dag file_x ([a9dc619](https://github.com/preritgarg23/demo-gitflow/commit/a9dc6197eef31b5fd5d461915a969f09be7067fb))
