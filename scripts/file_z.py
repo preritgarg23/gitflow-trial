@@ -1,0 +1,2 @@
+def funC():
+    pass
